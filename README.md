@@ -79,7 +79,7 @@ DeviceProcessEvents
 
 ### 4. Searched the `DeviceNetworkEvents` Table for TOR Network Connections
 
-Searched for any indication the TOR browser was used to establish a connection using any of the known TOR ports. At `2025-03-29T19:09:33.7541937Z`, an employee on the "wooohooo" device successfully established a connection to the remote IP address `89.58.56.112 ` on port `587`. The connection was initiated by the process `tor.exe`, located in the folder `c:\users\labuser\desktop\tor browser\browser\torbrowser\tor\tor.exe.' There were other connections using the following ports 60784, 56718, 56710, 56707, 42069, 9700, 9151, 9150, 58. 
+Searched for any indication the TOR browser was used to establish a connection using any of the known TOR ports. At `2025-03-29T19:09:33.7541937Z`, an employee on the "wooohooo" device successfully established a connection to the remote IP address `89.58.56.112` on port `587`. The connection was initiated by the process `tor.exe`, located in the folder 'c:\users\labuser\desktop\tor browser\browser\torbrowser\tor\tor.exe'. There were other connections using the following ports '60784, 56718, 56710, 56707, 42069, 9700, 9151, 9150, 58'. 
 
 **Query used to locate events:**
 
@@ -122,7 +122,7 @@ DeviceNetworkEvents
 ### 4. Network Connection - TOR Network
 
 - **Timestamp:** `2025-03-29T19:09:33.7541937Z`
-- **Event:** A network connection to IP `89.58.56.112 ` on port `587` by user "labuser" was established using `tor.exe`, confirming TOR browser network activity.
+- **Event:** A network connection to IP `89.58.56.112` on port `587` by user "labuser" was established using `tor.exe`, confirming TOR browser network activity.
 - **Action:** Connection success.
 - **Process:** `tor.exe`
 - **File Path:** `c:\users\labuser\desktop\tor browser\browser\torbrowser\tor\tor.exe`
