@@ -132,13 +132,13 @@ DeviceNetworkEvents
 - **Timestamps:**
   - `2024-11-08T22:18:08Z` - Connected to `194.164.169.85` on port `443`.
   - `2024-11-08T22:18:16Z` - Local connection to `127.0.0.1` on port `9150`.
-- **Event:** Additional TOR network connections were established, indicating ongoing activity by user "employee" through the TOR browser.
+- **Event:** Additional TOR network connections were established, indicating ongoing activity by user "labuser" through the TOR browser.
 - **Action:** Multiple successful connections detected.
 
 ### 6. File Creation - TOR Shopping List
 
 - **Timestamp:** `2025-03-29T19:23:14.2508086Z`
-- **Event:** The user "employee" created a file named `tor-shopping-list.txt` on the desktop, potentially indicating a list or notes related to their TOR browser activities.
+- **Event:** The user "labuser" created a file named `tor-shopping-list.txt` on the desktop, potentially indicating a list or notes related to their TOR browser activities.
 - **Action:** File creation detected.
 - **File Path:** `C:\Users\labuser\Desktop\tor-shopping-list.txt`
 
