@@ -1,8 +1,6 @@
 ![image](https://github.com/user-attachments/assets/417c5dd4-50a7-4537-bfe8-ee5c9ac28db2)
 
 # Threat Hunt Report: Unauthorized TOR Usage
-
-### [Threat Event Creation](https://github.com/PaulMiguelSec/Threat-Hunting-Projects/blob/main/Threat-Event-Creation/Threat-Event-Unauthorized-TOR-Usage.md) 
 - [Threat Creation](https://github.com/citoscott/threat-hunting-scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)
 
 ## Platforms and Tools Used
